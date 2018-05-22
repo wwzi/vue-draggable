@@ -1,0 +1,24 @@
+{
+  "name": "vue-simple-draggable",
+  "version": "1.0.0",
+  "description": "a simple draggable directive of Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WayenZhong/vue-draggbale.git"
+  },
+  "keywords": [
+    "vue",
+    "directive",
+    "draggable"
+  ],
+  "author": "WayenZhong (@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WayenZhong/vue-draggbale/issues"
+  },
+  "homepage": "https://github.com/WayenZhong/vue-draggbale#readme"
+}
