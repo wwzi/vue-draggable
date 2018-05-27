@@ -1,15 +1,16 @@
-![image](https://raw.githubusercontent.com/WayenZhong/vue-draggbale/master/icon.png)
+![image](https://raw.githubusercontent.com/WayenZhong/vue-draggable/master/icon.png)
 
-# vue-draggbale
+# vue-draggable
 a simple draggable directive of Vue
+[Try this demo](https://wayenzhong.github.io/vue-draggable/dist/index.html)
 
 # Home to use
 ```
-npm i vue-simple-draggable --save-dev
+npm i vue-draggable-directive --save-dev
 ```
 ```
 import Vue from 'vue'
-import VueDraggable from 'vue-simple-draggable'
+import VueDraggable from 'vue-draggable-directive'
 
 Vue.use(VueDraggable)
 ```

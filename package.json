@@ -1,5 +1,5 @@
 {
-  "name": "vue-simple-draggable",
+  "name": "vue-draggable-directive",
   "version": "1.0.0",
   "description": "a simple draggable directive of Vue",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WayenZhong/vue-draggbale.git"
+    "url": "git+https://github.com/WayenZhong/vue-draggable.git"
   },
   "keywords": [
     "vue",
@@ -18,7 +18,7 @@
   "author": "WayenZhong (@gmail.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/WayenZhong/vue-draggbale/issues"
+    "url": "https://github.com/WayenZhong/vue-draggable/issues"
   },
-  "homepage": "https://github.com/WayenZhong/vue-draggbale#readme"
+  "homepage": "https://github.com/WayenZhong/vue-draggable#readme"
 }
