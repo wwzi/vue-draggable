@@ -65,7 +65,7 @@ function onPosChange(binding, type, el, mousePos) {
     binding.value && binding.value.onPosChange && binding.value.onPosChange(type, el, mousePos);
 }
 
-export let draggable = {
+var draggable = {
     install(Vue, options) {
         Vue.directive('draggable', draggable);
     },
@@ -183,4 +183,4 @@ export let draggable = {
     }
 };
 
-export default draggable;
+module.exports = draggable;
