@@ -129,15 +129,12 @@ var draggable = {
             if (boundingRect) {
                 // 左
                 if (state.momentRect.top + dy > boundingRect.top && state.momentRect.bottom + dy < boundingRect.bottom) {
-                    console.log(1);
                     state.lastPos.y = state.startPos.y + dy;
                 }
                 else if (state.momentRect.top + dy <= boundingRect.top) {
-                    console.log(2);
                     state.lastPos.y = boundingRect.top - state.initRect.top;
                 }
                 else if (state.momentRect.bottom + dy >= boundingRect.bottom) {
-                    console.log(3);
                     state.lastPos.y = boundingRect.bottom - state.initRect.bottom;
                 }
 
