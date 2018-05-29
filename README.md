@@ -4,7 +4,7 @@
 a simple draggable directive of Vue
 [Try this demo](https://wayenzhong.github.io/vue-draggable/dist/index.html)
 
-# Home to use
+# How to use
 ```
 npm i vue-draggable-directive --save-dev
 ```
