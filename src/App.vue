@@ -2,6 +2,7 @@
   <div id="app">
     <img src="./assets/icon.png">
     <SimpleDraggable/>
+    <a class="github-link" href="https://github.com/WayenZhong/vue-draggable/tree/gh-pages">demo github</a>
   </div>
 </template>
 
@@ -42,5 +43,11 @@ html {
   text-align: center;
   color: #2c3e50;
   padding-top: 60px;
+}
+.github-link {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  color: #fff;
 }
 </style>
