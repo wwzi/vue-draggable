@@ -2,7 +2,7 @@
 
 # vue-draggable
 a simple draggable directive of Vue
-[Try this demo](https://wayenzhong.github.io/vue-draggable/dist/index.html)
+[Try this demo](https://wwzi.github.io/vue-draggable/dist/index.html)
 
 # How to use
 ```
